@@ -7,9 +7,10 @@ The project was done as part of a Udacity course. Its objective was to answer th
 3) How do these different habits & attitudes impact the career satisfaction of female vs. male SW developers?
 
 # Files in respository
-survey_results_public.csv : Results of Stackoverflow survey 2017, one row of results per survey participant
-survey_results_schema.csv : Contains overview of questions asked to survey participants
 blog-article.ipynb : Analysis on questions highlighted above
+survey_results_schema.csv : Contains overview of questions asked to survey participants
+
+The results of the Stackoverflow survey 2017 are not included in the repository due to the size of the file. They can be downloaded here: https://insights.stackoverflow.com/survey In the Jupiter notebook they are referred to as survey_results_public.csv 
 
 # Libraries used
 The libraries used in this notebook are numpy, pandas, seaborn and matplotlib
